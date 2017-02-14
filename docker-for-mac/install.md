@@ -166,3 +166,5 @@ workarounds, how to run and submit diagnostics, and submit issues.
 * [Release Notes](release-notes.md) lists component updates, new features, and improvements associated with Stable and Beta releases.
 
 * [Learn Docker](/learn.md) provides general Docker tutorials.
+
+* [Docker for Mac vs. Docker Toolbox](docker-toolbox.md) explains the differences between the new and legacy apps, and considerations for installing Docker for Mac on a system with Docker Toolbox already installed.

@@ -358,3 +358,9 @@ options at the bottom of each docs page.
 
 * Check out the blog post
   [Introducing Docker 1.13.0](https://blog.docker.com/2017/01/whats-new-in-docker-1-13/).
+
+* For questions you may have about virtualization, or the relationship
+of Docker for Mac to earlier products like Docker Machine and
+Docker Toolbox, see
+[What to know before you install](install.md#what-to-know-before-you-install)
+in the Intall Guide.

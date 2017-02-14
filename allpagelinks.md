@@ -1,7 +1,6 @@
 ---
 layout: null
 hide_from_sitemap: true
-layout: null
 ---
 
 # All site links for `docs.docker.com`

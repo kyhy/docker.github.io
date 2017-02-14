@@ -650,9 +650,11 @@ If you want to go back to using Docker Toolbox, you have to disable the Hyper-V 
 
 ## Where to go next
 
-* Try out the tutorials and sample app walkthroughs at [Learn Docker](/learn.md), including:
+* Try out the tutorials and sample app walkthroughs at
+[Learn Docker](/learn.md), including:
 
-  *  Learn Docker basics in [Getting Started with Docker](/engine/getstarted/index.md)
+  *  Learn Docker basics in
+  [Getting Started with Docker](/engine/getstarted/index.md)
 
   * Learn how to [define and deploy a Docker stack to a swarm](/engine/getstarted-voting-app/index.md)
   (deploy multiple containers as services and use new
@@ -665,3 +667,9 @@ see the [Docker CLI Reference Guide](/engine/reference/commandline/docker.md).
 
 * Check out the blog post
   [Introducing Docker 1.13.0](https://blog.docker.com/2017/01/whats-new-in-docker-1-13/).
+
+* For questions you may have about Hyper-V and virtualization, see
+[What to know before you install](install.md#what-to-know-before-you-install) in the Intall Guide.
+
+* For a handy list of links to information about Windows containers,
+see [About Windows containers and Windows Server 2016](install.md#about-windows-containers-and-windows-server-2016) in the Install Guide.
